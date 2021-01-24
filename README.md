@@ -3,7 +3,7 @@
 * Encrypting files with AES 256 
 * Deleting LogonUI.exe and bootmgr
 * BSOD when ransomware is killed
-* Disabling cmd, taskmgr and regedit
+* Disabling cmd, taskmgr, regedit, gpedit, processhacker, powershell, sdclt, avast, chrome and firefox
 # How to decrypt files?
 * Decryption is impossible (encryption key is randomly generated)
 
